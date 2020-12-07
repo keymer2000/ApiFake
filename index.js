@@ -1,7 +1,6 @@
 var jsonServer = require('json-server');
 var db = require('./db.js');
 var fs = require('fs');
-
 var server = jsonServer.create();
 
 // important to do this for now.sh to work

@@ -1,6 +1,7 @@
 /* eslint-disable import/no-extraneous-dependencies */
 const Faker = require("faker");
 
+
 module.exports = () => {
   const data = {
             "clases": [
@@ -282,7 +283,7 @@ module.exports = () => {
                     "id": "1",
                     "documento": "1152188863",
                     "tipo_documento": "CC",
-                    "nombres": "Oscar",
+                    "nombres": Faker.name.firstName,
                     "apellidos": "Mesa",
                     "contrasena": "34c958e8afa723e3806b37fffa2d64d2ee0ceef9",
                     "correo": "oscarmesa.elpoli@elpoli.edu.co",

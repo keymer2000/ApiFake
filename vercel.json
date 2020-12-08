@@ -1,7 +1,12 @@
 {
   "version": 2,
-  "name": "api-fake-mediatecapp",
-  "builds": [{ "src": "index.js", "use": "@now/node-server" }],
+  "name": "Apifake",
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node-server"
+    }
+  ],
   "routes": [
     {
       "src": "/(.*)",

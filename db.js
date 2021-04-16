@@ -387,7 +387,47 @@ module.exports = () => {
                     "fecha_creacion": "2020-10-09 02:49:07",
                     "fecha_actualizacion": null
                 }
+            ],
+            
+            "youtube":[
+                {
+                    title:'video 1',
+                    subtitle:'Subtitle video 1',
+                    img:'https://i.ytimg.com/an_webp/ruw_sDU8Lv0/mqdefault_6s_480x270.webp?du=3000&sqp=CLqr5oMG&rs=AOn4CLD8F5UBJZXIZqukUFVbkvu--nBV1Q'
+            
+                  },
+                  {
+                    title:'video 2',
+                    subtitle:'Subtitle video 2',
+                    img:'https://i.ytimg.com/an_webp/ruw_sDU8Lv0/mqdefault_6s_480x270.webp?du=3000&sqp=CLqr5oMG&rs=AOn4CLD8F5UBJZXIZqukUFVbkvu--nBV1Q'
+            
+                  },
+                  {
+                    title:'video 3',
+                    subtitle:'Subtitle video 3',
+                    img:'https://i.ytimg.com/an_webp/ruw_sDU8Lv0/mqdefault_6s_480x270.webp?du=3000&sqp=CLqr5oMG&rs=AOn4CLD8F5UBJZXIZqukUFVbkvu--nBV1Q'
+            
+                  },
+                  {
+                    title:'video 1',
+                    subtitle:'Subtitle video 1',
+                    img:'https://i.ytimg.com/an_webp/ruw_sDU8Lv0/mqdefault_6s_480x270.webp?du=3000&sqp=CLqr5oMG&rs=AOn4CLD8F5UBJZXIZqukUFVbkvu--nBV1Q'
+            
+                  },
+                  {
+                    title:'video 2',
+                    subtitle:'Subtitle video 2',
+                    img:'https://i.ytimg.com/an_webp/ruw_sDU8Lv0/mqdefault_6s_480x270.webp?du=3000&sqp=CLqr5oMG&rs=AOn4CLD8F5UBJZXIZqukUFVbkvu--nBV1Q'
+            
+                  },
+                  {
+                    title:'video 3',
+                    subtitle:'Subtitle video 3',
+                    img:'https://i.ytimg.com/an_webp/ruw_sDU8Lv0/mqdefault_6s_480x270.webp?du=3000&sqp=CLqr5oMG&rs=AOn4CLD8F5UBJZXIZqukUFVbkvu--nBV1Q'
+            
+                  }
             ]
+            
         }
    return data;
 };
